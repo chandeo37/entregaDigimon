@@ -1,0 +1,36 @@
+form, h1{
+    text-align: center;
+}
+
+#pie{
+   
+    text-align: center;
+    background: linear-gradient(orange, pink);
+
+ height: 250px;
+}
+#pie, p,h1{
+    padding-top: 50px;
+    color: white;
+    
+    
+
+}
+body{
+    background-color: coral;
+}
+
+.organizacion_footer{
+    display: inline-block;
+    width: 300px;
+    padding: 90px;
+}
+
+label{
+    color: white;
+}
+
+
+#b1{
+    text-align: center;   
+}
